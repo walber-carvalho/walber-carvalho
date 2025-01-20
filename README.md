@@ -11,15 +11,12 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-###
+<br>
 
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=walber-carvalho&show_icons=true&theme=highcontrast)
-
-
-###
-
-<h3 align="left">Connect with me!</h3>
-
+<br>
+<br>
+## Redes Sociais 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:walberjcarte@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/walber-carvalho-b3303732a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/wal.jc/)
